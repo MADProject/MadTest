@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Automated Barcode</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name Please!</string>
+    <string name="error_message_email">Enter a Valid Email Address</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">Create Account</string>
+    <string name="text_already_member">Have an account? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password does not match</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="home">Home</string>
+    <string name="yourjobs">Your Jobs</string>
+    <string name="findjob">Find Job</string>
+    <string name="profile">Your Profile</string>
+    <string name="signout">Sign Out</string>
+    <string name="header">Automated Barcode Solutions</string>
+    <string name="emailcontact">abslpvt@gmail.com</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
